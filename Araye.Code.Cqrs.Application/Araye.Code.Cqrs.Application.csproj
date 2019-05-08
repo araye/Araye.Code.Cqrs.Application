@@ -9,7 +9,7 @@
     <RepositoryUrl>https://github.com/araye/Araye.Code.Cqrs.Application</RepositoryUrl>
     <PackageTags>CQRS</PackageTags>
     <Description>open source set of methods we use in our .net core projects at Araye Software Development. Based on Jason Taylor 's Clean Architecture</Description>
-    <Version>0.0.2</Version>
+    <Version>0.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
